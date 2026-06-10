@@ -3,3 +3,10 @@ body {
     text-align: center;
     background-color: #dec25f;
 }
+
+.container div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 24px;
+}
