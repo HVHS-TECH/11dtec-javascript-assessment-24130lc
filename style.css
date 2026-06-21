@@ -10,3 +10,9 @@ body {
   padding: 20px;
   font-size: 24px;
 }
+
+.img2 {
+ position: relative;
+left: 3000px; 
+}
+
